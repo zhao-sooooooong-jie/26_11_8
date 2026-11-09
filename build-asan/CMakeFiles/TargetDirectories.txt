@@ -1,3 +1,0 @@
-/root/26_11_7/build-asan/CMakeFiles/shape_demo.dir
-/root/26_11_7/build-asan/CMakeFiles/edit_cache.dir
-/root/26_11_7/build-asan/CMakeFiles/rebuild_cache.dir
