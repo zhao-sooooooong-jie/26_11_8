@@ -9,7 +9,7 @@ int main()
     LOG_INFO("strat");
     std::vector<Shape*> shapes;
     shapes.push_back(new Circle(1.0));
-    shapes.push_back(nullptr);
+    //shapes.push_back(nullptr);
     shapes.push_back(new Rectangle(2.0, 3.0));
 
     double total = 0.0;

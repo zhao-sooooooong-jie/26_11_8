@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/shape_demo.dir/src/Circle.cpp.o CMakeFiles/shape_demo.dir/src/Logger.cpp.o CMakeFiles/shape_demo.dir/src/Rectangle.cpp.o CMakeFiles/shape_demo.dir/src/main.cpp.o -o shape_demo 
